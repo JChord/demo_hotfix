@@ -1,0 +1,2 @@
+com/doslin/hotfix/FixApplication.class
+com/doslin/hotfix/FixManager.class
